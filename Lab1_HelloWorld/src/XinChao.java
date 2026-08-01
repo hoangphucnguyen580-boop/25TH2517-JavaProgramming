@@ -13,12 +13,10 @@ public class XinChao {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		// Lenh in ra màn hình
-        System.out.println("Xin chào thế giới Java!");
-        System.out.println("Chào mừng đến với lập trình Java");
-        
-        // In kết quả tính toán
-        System.out.println("5 + 3 = " + (5 + 3));
-
+        System.out.println("Hello World!");
+        System.out.println("Em tên Nguyễn Hoàng Phúc");
+        System.out.println("Mã SV: 25TH2517");
+        System.out.println("Lớp: CC25TTH");
 	}
 
 }
