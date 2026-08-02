@@ -15,7 +15,7 @@ public class Lab2_BaiThucHanh3 {
         //In kết quả
         System.out.println("Cân nặng: " + weight + " kg");
         System.out.println("Chiều cao: " + height + " m");
-        System.out.println("Chỉ số BMI: " + bmi);
+        System.out.println("Chỉ số BMI: " + String.format("%.1f", bmi));
         
         //Điều kiện phân loại bmi
         if (bmi < 18.5) {
