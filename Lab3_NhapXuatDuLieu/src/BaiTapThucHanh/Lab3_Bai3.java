@@ -22,7 +22,7 @@ public class Lab3_Bai3 {
         
         try {
         	FileWriter nhatky = new FileWriter("nhatky.txt", true);
-        	nhatky.write("=== SINH VIÊN ===\n");
+        	nhatky.write("=== Nhật Ký ===\n");
         	nhatky.write("Tiêu đề: " + tieude + "\n");
         	nhatky.write("Ngày: " + homnay + "\n");
         	nhatky.write("Nội dung: " + noidung + "\n");
