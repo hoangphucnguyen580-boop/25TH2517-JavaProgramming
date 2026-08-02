@@ -1,0 +1,18 @@
+=== SINH VIÊN ===
+Mã SV: 25TH2517
+Họ tên: Nguyễn Hoàng Phúc
+Điểm Toán: PT.1f
+Điểm Lý: PT.1f
+Điểm Hóa: PT.1f
+Điểm TB: PT.2f
+=================
+
+=== SINH VIÊN ===
+Mã SV: 25
+Họ tên: phúc
+Điểm Toán: 10,0
+Điểm Lý: 10,0
+Điểm Hóa: 10,0
+Điểm TB: 10,00
+=================
+
