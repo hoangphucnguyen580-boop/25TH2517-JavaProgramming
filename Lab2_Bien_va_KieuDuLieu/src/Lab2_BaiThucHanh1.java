@@ -15,6 +15,7 @@ public class Lab2_BaiThucHanh1 {
         
         //In kết quả
         System.out.println("Tổng: " + tong);
+        //format số thực (f = float/double), lấy đúng 2 chữ số sau dấu chấm
         System.out.println("Thương: " + String.format("%.2f", thuong));
         System.out.println("Phần dư: " + phandu);
 
