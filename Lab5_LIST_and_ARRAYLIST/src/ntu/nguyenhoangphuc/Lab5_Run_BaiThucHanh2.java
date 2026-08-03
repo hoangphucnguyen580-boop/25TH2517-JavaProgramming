@@ -1,6 +1,4 @@
 package ntu.nguyenhoangphuc;
-import ntu.nguyenhoangphuc.Lab5_BaiThucHanh2;
-import ntu.nguyenhoangphuc.Lab5_BaiThucHanh2_QuanLySinhVien;
 import java.util.List;
 public class Lab5_Run_BaiThucHanh2 {
 
